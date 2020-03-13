@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orbion", "Orbion\Orbion.csproj", "{0ED328FE-F39E-4856-A667-0C3C2502785F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orbion.Web", "Orbion.Web\Orbion.Web.csproj", "{0ED328FE-F39E-4856-A667-0C3C2502785F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

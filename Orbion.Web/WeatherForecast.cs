@@ -1,6 +1,6 @@
 using System;
 
-namespace Orbion
+namespace Orbion.Web
 {
     public class WeatherForecast
     {
