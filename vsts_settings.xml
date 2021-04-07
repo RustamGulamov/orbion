@@ -19,13 +19,31 @@
           <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;A common project for Post+ applications and developments&quot;,&quot;id&quot;:&quot;6929a946-68d9-40de-9d00-a4250900a47f&quot;,&quot;name&quot;:&quot;platform&quot;,&quot;revision&quot;:31,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/post-plus/_apis/projects/6929a946-68d9-40de-9d00-a4250900a47f&quot;}" />
           <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;7ee5c687-2c25-46e3-9291-203248ae7f75&quot;,&quot;name&quot;:&quot;PostPlus.Extranet&quot;,&quot;remoteUrl&quot;:&quot;https://post-plus@dev.azure.com/post-plus/platform/_git/PostPlus.Extranet&quot;,&quot;url&quot;:&quot;https://dev.azure.com/post-plus/_apis/git/repositories/7ee5c687-2c25-46e3-9291-203248ae7f75&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;A common project for Post+ applications and developments&quot;,&quot;id&quot;:&quot;6929a946-68d9-40de-9d00-a4250900a47f&quot;,&quot;name&quot;:&quot;platform&quot;,&quot;revision&quot;:31,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/post-plus/_apis/projects/6929a946-68d9-40de-9d00-a4250900a47f&quot;},&quot;_links&quot;:null}" />
         </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://post-plus@dev.azure.com/post-plus/platform/_git/PostPlus.Base" />
+          <option name="serverUri" value="https://dev.azure.com/post-plus" />
+          <option name="userId" value="9f190200-c932-41b4-a8c2-9de72420c2fc" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;765257e9-e358-45b6-926d-1dd4dade3aea&quot;,&quot;name&quot;:&quot;post-plus&quot;,&quot;url&quot;:&quot;https://dev.azure.com/post-plus/_apis/projectCollections/765257e9-e358-45b6-926d-1dd4dade3aea&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;A common project for Post+ applications and developments&quot;,&quot;id&quot;:&quot;6929a946-68d9-40de-9d00-a4250900a47f&quot;,&quot;name&quot;:&quot;platform&quot;,&quot;revision&quot;:31,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/post-plus/_apis/projects/6929a946-68d9-40de-9d00-a4250900a47f&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;70a5218e-dab2-4965-86dc-495bdc85f43c&quot;,&quot;name&quot;:&quot;PostPlus.Base&quot;,&quot;remoteUrl&quot;:&quot;https://post-plus@dev.azure.com/post-plus/platform/_git/PostPlus.Base&quot;,&quot;url&quot;:&quot;https://dev.azure.com/post-plus/_apis/git/repositories/70a5218e-dab2-4965-86dc-495bdc85f43c&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;A common project for Post+ applications and developments&quot;,&quot;id&quot;:&quot;6929a946-68d9-40de-9d00-a4250900a47f&quot;,&quot;name&quot;:&quot;platform&quot;,&quot;revision&quot;:31,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/post-plus/_apis/projects/6929a946-68d9-40de-9d00-a4250900a47f&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://post-plus@dev.azure.com/post-plus/platform/_git/Ebic" />
+          <option name="serverUri" value="https://dev.azure.com/post-plus" />
+          <option name="userId" value="9f190200-c932-41b4-a8c2-9de72420c2fc" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;765257e9-e358-45b6-926d-1dd4dade3aea&quot;,&quot;name&quot;:&quot;post-plus&quot;,&quot;url&quot;:&quot;https://dev.azure.com/post-plus/_apis/projectCollections/765257e9-e358-45b6-926d-1dd4dade3aea&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;A common project for Post+ applications and developments&quot;,&quot;id&quot;:&quot;6929a946-68d9-40de-9d00-a4250900a47f&quot;,&quot;name&quot;:&quot;platform&quot;,&quot;revision&quot;:31,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/post-plus/_apis/projects/6929a946-68d9-40de-9d00-a4250900a47f&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;9c87d403-9331-4dfe-843b-63ca5737eaff&quot;,&quot;name&quot;:&quot;Ebic&quot;,&quot;remoteUrl&quot;:&quot;https://post-plus@dev.azure.com/post-plus/platform/_git/Ebic&quot;,&quot;url&quot;:&quot;https://dev.azure.com/post-plus/_apis/git/repositories/9c87d403-9331-4dfe-843b-63ca5737eaff&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;A common project for Post+ applications and developments&quot;,&quot;id&quot;:&quot;6929a946-68d9-40de-9d00-a4250900a47f&quot;,&quot;name&quot;:&quot;platform&quot;,&quot;revision&quot;:31,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/post-plus/_apis/projects/6929a946-68d9-40de-9d00-a4250900a47f&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
       </array>
     </option>
     <option name="properties">
       <array>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//post-plus@dev.azure.com/post-plus/platform/_git/postplus.extranet" />
+          <option name="value" value="//post-plus@dev.azure.com/post-plus/platform/_git/postplus.base" />
         </PropertyState>
       </array>
     </option>
